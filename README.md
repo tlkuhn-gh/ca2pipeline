@@ -8,5 +8,5 @@ Patel, T. P., Man, K., Firestein, B. L., & Meaney, D. F. (2015). Automated quant
 EZCalcium: https://github.com/porteralab/EZcalcium
 Cantu, D. A., Wang, B., Gongwer, M. W., He, C. X., Goel, A., Suresh, A., Kourdougli, N., Arroyo, E. D., Zeiger, W., & Portera-Cailliau, C. (2020). EZcalcium: Open-Source Toolbox for Analysis of Calcium Imaging Data. Frontiers in neural circuits, 14, 25. https://doi.org/10.3389/fncir.2020.00025
 
-The original authors are not affiliated with this repository.
+The original authors are not affiliated with this repository. Most of this code is derived from FluoroSNNAP and EZCalcium and is distributed under their respective licenses.
 
